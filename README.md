@@ -5,6 +5,3 @@
 
 ## 2. Acc Curve
 ![acc](PIC/Accuracy_Curve.png)
-
-## 3. Predict Result
-![res](PIC/Predict_Result.png)
