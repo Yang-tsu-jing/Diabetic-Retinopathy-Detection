@@ -1,0 +1,9 @@
+checkpoints/
+
+retina-test/
+
+retina-train/
+
+submission1.csv
+
+train_labels.csv
